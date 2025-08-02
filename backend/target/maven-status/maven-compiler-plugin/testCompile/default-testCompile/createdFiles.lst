@@ -1,0 +1,3 @@
+com\ecommerce\controller\ProductControllerTest.class
+com\ecommerce\controller\ShoppingCartControllerTest.class
+com\ecommerce\controller\AuthControllerTest.class
